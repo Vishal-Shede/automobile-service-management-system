@@ -9,7 +9,7 @@ This project is a Windows-based desktop application developed using Java and JFr
 - **Billing System**: Streamlines the billing process by generating invoices and managing transactions.
 
 ## Technology Stack
-- **Java & JFrame**: For building the desktop application interface.
+- **Java Swing**: For building the desktop application interface.
 - **NetBeans IDE**: Development environment used for the project.
 - **JDBC with MySQL**: For robust and efficient database interaction, ensuring accurate data management.
 
